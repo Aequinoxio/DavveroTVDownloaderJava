@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DavveroTvVideoDownloader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DavveroTvVideoDownloader_jar</output-path>
+    <root id="archive" name="DavveroTvVideoDownloader.jar">
+      <element id="module-output" name="DavveroTvVideoDownloader" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.13.1/jsoup-1.13.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/glassfish/javax.json/1.1.4/javax.json-1.1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
